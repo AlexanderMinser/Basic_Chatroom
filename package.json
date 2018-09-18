@@ -1,0 +1,22 @@
+{
+  "name": "basic_chatroom",
+  "version": "1.0.0",
+  "description": "chatroom tutorial in book \"node.js in action\"",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderMinser/Basic_Chatroom.git"
+  },
+  "author": "Alexander Minser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderMinser/Basic_Chatroom/issues"
+  },
+  "homepage": "https://github.com/AlexanderMinser/Basic_Chatroom#readme"
+}
